@@ -1,0 +1,10 @@
+# 本地快照（改文件前留的备份），不进公开库
+_备份/
+
+# 打包产物
+*.zip
+
+# 系统文件
+Thumbs.db
+desktop.ini
+.DS_Store
